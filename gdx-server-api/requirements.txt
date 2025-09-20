@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+pydantic
+pydantic-settings
+asyncpg
+alembic
+Werkzeug
+python-jose
+passlib
+psycopg2
