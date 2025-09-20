@@ -1,6 +1,6 @@
-# 🚀 GDX APPLICATION
+# 🚀 FastApi APPLICATION
 
-This is a **backend boilerplate** for gdx application project built for APIs and **Alembic** for database migrations.  
+This is a **backend boilerplate** for FastApi application project built for APIs and **Alembic** for database migrations.  
 
 It provides a clean structure to:  
 - Manage database models and schemas.  
